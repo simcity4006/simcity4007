@@ -1,0 +1,6 @@
+/* tablet lagout */
+@media only screen and (min-width:200px) and (max-width:991px){
+    .social_area ul {
+        max-width: 460px;
+      }
+}
